@@ -50,22 +50,22 @@ const Navbar = () => {
             <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
                 <ul>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#7289DA]'>
-                        <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                        <a className='flex justify-between items-center w-full text-gray-300' href="https://discord.gg/ky8tYuSf4C" target="_blank">
                             Discord <FaDiscord size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0072b1]'>
-                        <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                        <a className='flex justify-between items-center w-full text-gray-300' href="https://www.linkedin.com/in/erick-sanggor/" target="_blank">
                             LinkedIn <FaLinkedin size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#171515]'>
-                        <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                        <a className='flex justify-between items-center w-full text-gray-300' href="https://github.com/ErickAbrahams" target="_blank">
                             Github <FaGithub size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gradient-to-r from-purple-500 to-pink-500'>
-                        <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                        <a className='flex justify-between items-center w-full text-gray-300' href="https://www.instagram.com/abrahame.jpg/" target="_blank">
                             Instagram <FaInstagram size={30} />
                         </a>
                     </li>
