@@ -16,7 +16,7 @@ const About = () => {
                     </div>
 
                     <div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo recusandae illum, nostrum delectus laboriosam quisquam rerum aperiam odio harum doloremque odit numquam fuga illo minima sunt, debitis exercitationem cupiditate maiores.
+                        <p>this website is not more than my playground to test something new and some cool features please dont expect too muchn :D
                         </p>
                     </div>
                 </div>
